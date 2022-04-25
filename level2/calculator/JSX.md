@@ -102,6 +102,7 @@ const element = React.createElement('h1', 'Hello, world!'); // 표현식
 ## 참고
 
 - https://withseungryu.tistory.com/57
+- 우아한테크코스 LMS - JSX
 
 ### 공식 문서
 
